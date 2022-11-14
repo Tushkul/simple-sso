@@ -8,6 +8,8 @@ package com.sheefee.simple.sso.client.constant;
  *
  */
 public interface AuthConst {
+	
+	//tushar update the project work
 	public static String IS_LOGIN = "isLogin";
 	public static String LOGIN_URL = "loginUrl";
 	public static String LOGOUT_URL = "logoutUrl";
